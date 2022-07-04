@@ -219,7 +219,7 @@ a:hover {
     height: 300px;
     width: 400px;
     margin: 3rem 0 0 0;
-    background-image: url('./room.jpg');
+    background-image: url('room.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
