@@ -11,9 +11,6 @@
 
 }
 
-
-
-
 .populares__card{
     display: grid;
     grid-template-areas: 
@@ -21,9 +18,7 @@
         "card-corpo";
     background-color: #fdfdfd;
     grid-template-columns: 100%;
-    grid-template-rows: 173px auto;
-    margin-right: 1rem;
-    width: calc(20% - 1rem);
+
 }
 
 .populares__card:last-child{

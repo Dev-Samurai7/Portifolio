@@ -38,10 +38,7 @@ height: calc(100vh - 50px);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    grid-column: 4 / 4;
-    grid-row-start: 1;
-    grid-row: 1 / 1 ;
-
+ 
 }
 
 .destaques__secundario:nth-child(3) {
@@ -49,8 +46,7 @@ height: calc(100vh - 50px);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    grid-column: 4 / 4;
-    grid-row: 2 / 2 ;
+  
 }
 
 .destaques__secundario:nth-child(4) {
@@ -58,8 +54,7 @@ height: calc(100vh - 50px);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    grid-column: 4 / 4;
-    grid-row: 3 / 3 ;
+   
 }
 
 .destaques__secundario:nth-child(5) {
@@ -67,8 +62,7 @@ height: calc(100vh - 50px);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    grid-column: 3 / 3;
-    grid-row: 3 / 3 ;
+   
 }
 
 .destaques__categorias{
